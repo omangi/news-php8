@@ -30,4 +30,3 @@ $class = new Union();
 $class->setNumber(5);
 $class->setNumber(5.5);
 $class->getNumber();
-
